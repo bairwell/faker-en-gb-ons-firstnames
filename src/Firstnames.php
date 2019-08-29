@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Bairwell\Faker\EnGbOns;
+namespace Bairwell\Faker\EnGbOns\Firstnames;
 
 use Faker\Provider\Base;
 use Faker\Provider\Person;

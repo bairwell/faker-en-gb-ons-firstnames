@@ -19,12 +19,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Bairwell\\Faker\\EnGbOns\\": "src/"
+      "Bairwell\\Faker\\EnGbOns\\Firstnames\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Bairwell\\Faker\\EnGbOns\\Tests\\": "tests/"
+      "Bairwell\\Faker\\EnGbOns\\Firstnames\\Tests\\": "tests/"
     }
   },
   "config": {

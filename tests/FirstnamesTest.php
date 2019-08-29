@@ -1,14 +1,14 @@
 <?php
 declare(strict_types=1);
 
-namespace Bairwell\Faker\EnGbOns\Tests;
+namespace Bairwell\Faker\EnGbOns\Firstnames\Tests;
 
-use Bairwell\Faker\EnGbOns\Firstnames;
+use Bairwell\Faker\EnGbOns\Firstnames\Firstnames;
 use Faker\Generator;
 use Faker\Provider\Person;
 use PHPUnit\Framework\TestCase;
 /**
- * @coversDefaultClass \Bairwell\Faker\EnGbOns\Firstnames
+ * @coversDefaultClass \Bairwell\Faker\EnGbOns\Firstnames\Firstnames
  */
 class FirstnamesTest extends TestCase
 {
