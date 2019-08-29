@@ -1,0 +1,7 @@
+composer.lock
+# We don't want vendor to accidentally make it into the repo.
+vendor/*
+# Or .idea
+.idea
+qa/*
+.phpunit.result.cache
